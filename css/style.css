@@ -1,0 +1,14 @@
+ul{
+    list-style-type: square;
+    color: blue;
+}
+
+p{
+    background-color: white;
+    color: black;
+}
+
+ol{
+    background-color: white;
+    color: blue;
+}
